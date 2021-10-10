@@ -5,7 +5,7 @@ Template Name: 实时热点
 if (!defined('ABSPATH')) {
     exit;
 }
-$ionewsKey = "b7IfHRk3TgLPYtJTjh0RzZUg4T7jjz";
+$ionewsKey = "b7IfHRk3TgLPYtJTjh0RzZUg4T7jjz";//此为测试key，使用时请更改为您自己的key
 
 get_header(); ?>
 
